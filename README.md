@@ -1,5 +1,5 @@
 # Autonomous-system-for-collecting-floating-waste
-###Abstract
+### Abstract
 This project centers on an autonomous robotic system designed to tackle the prevalent
 issue of floating waste in water bodies. This innovative solution, equipped with ad-
 vanced computer vision, swiftly detects and collects floating debris upon identification,
